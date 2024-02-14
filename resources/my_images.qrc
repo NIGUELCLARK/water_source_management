@@ -1,0 +1,32 @@
+<RCC>
+  <qresource>
+    <file>send.png</file>
+    <file>upload.png</file>
+    <file>bad-review.png</file>
+    <file>terms-and-conditions.png</file>
+    <file>save-water.png</file>
+    <file>watersource2.jpg</file>
+    <file>watersource.jpg</file>
+    <file>refresh.png</file>
+    <file>trash.png</file>
+    <file>add.png</file>
+    <file>update-user.png</file>
+    <file>delete.png</file>
+    <file>add-user.png</file>
+    <file>layout.png</file>
+    <file>wave.png</file>
+    <file>map.png</file>
+    <file>user (2).png</file>
+    <file>admin.png</file>
+    <file>Logo Files/For Web/png/Color logo - no background.png</file>
+    <file>user (1).png</file>
+    <file>tree.jpg</file>
+    <file>Spring_Landscape.jpg</file>
+    <file>Logo Files/For Web/Favicons/Android.png</file>
+    <file>Logo Files/For Web/png/Black logo - no background.png</file>
+    <file>illustration.jpg</file>
+    <file>Logo Files/For Web/png/Color logo - no background.png</file>
+    <file>logo_ict.png</file>
+    <file>the_colours_of_water.jpg</file>
+  </qresource>
+</RCC>
